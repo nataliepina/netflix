@@ -1,5 +1,5 @@
 import React from 'react';
-import { Break, Column, Container, Link, Row, Title, Text } from './styles/footer';
+import { Break, Column, Container, Link, Row, Text, Title } from './styles/footer';
 
 export default function Footer({ children, ...restProps }) {
     return <Container {...restProps}>{children}</Container>

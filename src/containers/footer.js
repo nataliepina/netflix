@@ -36,7 +36,7 @@ export function FooterContainer() {
             <Footer.Link href="#">Legal Notices</Footer.Link>
         </Footer.Column>
       </Footer.Row>
-      <Break />
+      <Footer.Break />
       <Footer.Text>Netflix United States</Footer.Text>
     </Footer>
   )
